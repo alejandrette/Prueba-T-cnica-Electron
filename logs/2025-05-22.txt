@@ -1,0 +1,86 @@
+[2025-05-22 18:40:49] [INFO] Aplicación iniciada
+[2025-05-22 18:40:50] [INFO] Inicio de descarga: 0.png
+[2025-05-22 18:40:50] [INFO] Descarga completada: 0.png
+[2025-05-22 18:40:50] [INFO] Inicio de descarga: 1.png
+[2025-05-22 18:40:50] [INFO] Descarga completada: 1.png
+[2025-05-22 18:40:50] [INFO] Inicio de descarga: 2.png
+[2025-05-22 18:40:50] [INFO] Descarga completada: 2.png
+[2025-05-22 18:40:50] [INFO] Inicio de descarga: 3.png
+[2025-05-22 18:40:51] [INFO] Inicio de descarga: 4.png
+[2025-05-22 18:40:51] [INFO] Descarga completada: 3.png
+[2025-05-22 18:40:51] [INFO] Descarga completada: 4.png
+[2025-05-22 18:40:51] [INFO] Inicio de descarga: 5.png
+[2025-05-22 18:40:51] [INFO] Inicio de descarga: 6.png
+[2025-05-22 18:40:51] [INFO] Descarga completada: 5.png
+[2025-05-22 18:40:51] [INFO] Descarga completada: 6.png
+[2025-05-22 18:40:51] [INFO] Inicio de descarga: 7.png
+[2025-05-22 18:40:52] [INFO] Inicio de descarga: 8.png
+[2025-05-22 18:40:52] [INFO] Descarga completada: 7.png
+[2025-05-22 18:40:52] [INFO] Descarga completada: 8.png
+[2025-05-22 18:40:52] [INFO] Inicio de descarga: 9.png
+[2025-05-22 18:40:52] [INFO] Inicio de descarga: 10.png
+[2025-05-22 18:40:52] [INFO] Descarga completada: 9.png
+[2025-05-22 18:40:53] [INFO] Descarga completada: 10.png
+[2025-05-22 18:40:53] [INFO] Inicio de descarga: 11.png
+[2025-05-22 18:40:53] [INFO] Descarga completada: 11.png
+[2025-05-22 18:40:53] [INFO] Inicio de descarga: 12.png
+[2025-05-22 18:40:53] [INFO] Descarga completada: 12.png
+[2025-05-22 18:40:53] [INFO] Inicio de descarga: 13.png
+[2025-05-22 18:40:53] [INFO] Descarga completada: 13.png
+[2025-05-22 18:40:53] [INFO] Inicio de descarga: 14.png
+[2025-05-22 18:40:54] [INFO] Descarga completada: 14.png
+[2025-05-22 18:40:54] [INFO] Inicio de descarga: 15.png
+[2025-05-22 18:40:54] [INFO] Inicio de descarga: 16.png
+[2025-05-22 18:40:54] [INFO] Descarga completada: 15.png
+[2025-05-22 18:40:54] [INFO] Descarga completada: 16.png
+[2025-05-22 18:40:54] [INFO] Inicio de descarga: 17.png
+[2025-05-22 18:40:55] [INFO] Inicio de descarga: 18.png
+[2025-05-22 18:40:55] [INFO] Descarga completada: 17.png
+[2025-05-22 18:40:55] [INFO] Descarga completada: 18.png
+[2025-05-22 18:40:55] [INFO] Inicio de descarga: 19.png
+[2025-05-22 18:40:55] [INFO] Descarga completada: 19.png
+[2025-05-22 18:40:55] [INFO] Inicio de descarga: 20.png
+[2025-05-22 18:40:55] [INFO] Descarga completada: 20.png
+[2025-05-22 18:40:55] [INFO] Inicio de descarga: 21.png
+[2025-05-22 18:40:56] [INFO] Inicio de descarga: 22.png
+[2025-05-22 18:40:56] [INFO] Descarga completada: 21.png
+[2025-05-22 18:40:56] [INFO] Descarga completada: 22.png
+[2025-05-22 18:40:56] [INFO] Inicio de descarga: 23.png
+[2025-05-22 18:40:56] [INFO] Descarga completada: 23.png
+[2025-05-22 18:40:56] [INFO] Inicio de descarga: 24.png
+[2025-05-22 18:40:57] [INFO] Inicio de descarga: 25.png
+[2025-05-22 18:40:57] [INFO] Descarga completada: 24.png
+[2025-05-22 18:40:57] [INFO] Descarga completada: 25.png
+[2025-05-22 18:40:57] [INFO] Inicio de descarga: 26.png
+[2025-05-22 18:40:58] [INFO] Inicio de descarga: 27.png
+[2025-05-22 18:40:58] [INFO] Descarga completada: 26.png
+[2025-05-22 18:40:58] [INFO] Descarga completada: 27.png
+[2025-05-22 18:40:58] [INFO] Inicio de descarga: 28.png
+[2025-05-22 18:40:59] [INFO] Descarga completada: 28.png
+[2025-05-22 18:40:59] [INFO] Inicio de descarga: 29.png
+[2025-05-22 18:40:59] [INFO] Descarga completada: 29.png
+[2025-05-22 18:42:13] [INFO] Aplicación iniciada
+[2025-05-22 18:42:14] [INFO] Inicio de descarga: 0.png
+[2025-05-22 18:42:14] [INFO] Descarga completada: 0.png
+[2025-05-22 18:42:14] [INFO] Inicio de descarga: 1.png
+[2025-05-22 18:42:14] [INFO] Descarga completada: 1.png
+[2025-05-22 18:42:14] [INFO] Inicio de descarga: 2.png
+[2025-05-22 18:42:14] [INFO] Descarga completada: 2.png
+[2025-05-22 18:42:14] [INFO] Inicio de descarga: 3.png
+[2025-05-22 18:42:15] [INFO] Inicio de descarga: 4.png
+[2025-05-22 18:42:15] [INFO] Descarga completada: 3.png
+[2025-05-22 18:42:15] [INFO] Inicio de descarga: 5.png
+[2025-05-22 18:42:15] [INFO] Descarga completada: 4.png
+[2025-05-22 18:42:15] [INFO] Descarga completada: 5.png
+[2025-05-22 18:42:15] [INFO] Inicio de descarga: 6.png
+[2025-05-22 18:42:15] [INFO] Descarga completada: 6.png
+[2025-05-22 18:42:15] [INFO] Inicio de descarga: 7.png
+[2025-05-22 18:42:16] [INFO] Inicio de descarga: 8.png
+[2025-05-22 18:42:16] [INFO] Descarga completada: 7.png
+[2025-05-22 18:42:16] [INFO] Descarga completada: 8.png
+[2025-05-22 18:42:16] [INFO] Inicio de descarga: 9.png
+[2025-05-22 18:42:16] [INFO] Inicio de descarga: 10.png
+[2025-05-22 18:42:16] [INFO] Descarga completada: 9.png
+[2025-05-22 18:42:17] [INFO] Descarga completada: 10.png
+[2025-05-22 18:42:17] [INFO] Inicio de descarga: 11.png
+[2025-05-22 18:42:17] [INFO] Aplicación finalizada
