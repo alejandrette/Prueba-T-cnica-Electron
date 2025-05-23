@@ -70,4 +70,4 @@ npm test
 
 ## 👨‍💻 Autor
 
-Desarrollado por [Tu Nombre].
+Desarrollado por Alejandro Casasola.
