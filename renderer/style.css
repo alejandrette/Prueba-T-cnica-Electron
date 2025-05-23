@@ -23,12 +23,6 @@ body {
   width: 100%;
 }
 
-h1 {
-  margin-bottom: 1rem;
-  font-size: 1.8rem;
-  color: #333;
-}
-
 .image-wrapper {
   position: relative;
 }

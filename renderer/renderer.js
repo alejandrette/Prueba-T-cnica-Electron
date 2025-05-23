@@ -24,11 +24,11 @@ window.electronAPI.receiveNewImage((filePath) => {
 
 // Recibir los mensajes del log
 window.electronAPI.receiveLog((message) => {
-  console.log('[LOG DEL MAIN]', message)
+  console.log('[MAIN LOG]', message)
 })
 
 // Enviar mensaje al main
-window.electronAPI.sendMessage('solicitar-imagenes')
+window.electronAPI.sendMessage('request-images')
 
 // Mostrar la imagen
 const showImage = () => {
@@ -36,7 +36,7 @@ const showImage = () => {
   $imageElement.src = imagePath
   $filename.textContent = imagePath.split(/[\\/]/).pop() // Extraer el nombre del archivo de la ruta
 
-  console.log('Mostrando imagen:', imagePath.split(/[\\/]/).pop())
+  console.log('Showing image:', imagePath.split(/[\\/]/).pop())
 
   index++
 }

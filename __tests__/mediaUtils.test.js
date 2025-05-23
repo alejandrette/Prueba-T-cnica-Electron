@@ -9,7 +9,7 @@ jest.mock('../lib/axios', () => ({
 }))
 jest.mock('../logger', () => ({
   info: jest.fn(),
-  error: jest.fn(),
+  error: jest.fn()
 }))
 
 describe('fetchAndSaveList', () => {
@@ -19,11 +19,11 @@ describe('fetchAndSaveList', () => {
   beforeEach(() => {
     jest.resetAllMocks()
     fs.existsSync.mockReturnValue(false)
-    fs.mkdirSync.mockImplementation(() => {})
+    fs.mkdirSync.mockImplementation(() => { })
     fs.promises = { writeFile: jest.fn() }
   })
 
-  it('debe crear el directorio y guardar el JSON', async () => {
+  it('you must create the directory and save the JSON', async () => {
     const mockData = [{ id: 1, download_url: 'https://example.com/1.png' }]
     api.get.mockResolvedValue({ data: mockData })
 

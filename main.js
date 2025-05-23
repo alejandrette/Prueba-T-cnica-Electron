@@ -26,25 +26,25 @@ const createWindow = () => {
   })
 }
 
-ipcMain.on('mensaje-desde-renderer', (event, data) => {
-  console.log('Mensaje desde renderer:', data)
+ipcMain.on('message-from-renderer', (event, data) => {
+  console.log('Message from renderer:', data)
 
   const imageFiles = fs.readdirSync(mediaDir)
     .filter(file => file.endsWith('.png'))
     .sort((a, b) => Number(a.split('.')[0]) - Number(b.split('.')[0]))
 
-  event.reply('respuesta-desde-main', imageFiles.map(name => path.join(mediaDir, name)))
+  event.reply('response-from-main', imageFiles.map(name => path.join(mediaDir, name)))
 })
 
 // Manejar el evento al iniciar la aplicación
 app.whenReady().then(() => {
-  logger.info('Aplicación iniciada')
+  logger.info('Application started')
   createWindow()
 })
 
 // Manejar el evento de cierre de la aplicación
 app.on('window-all-closed', () => {
-  logger.info('Aplicación finalizada')
+  logger.info('Application finished')
   if (process.platform !== 'darwin') {
     app.quit()
   }
